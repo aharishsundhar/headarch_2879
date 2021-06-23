@@ -1,0 +1,7 @@
+{
+  "name": "headarch",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
